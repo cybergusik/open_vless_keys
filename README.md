@@ -1,2 +1,2 @@
-# open_vless_keys
+# open vless keys
 my (not really) working vless keys
